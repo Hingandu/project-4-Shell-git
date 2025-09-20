@@ -1,1 +1,3 @@
-What is shell navigation?\rocky
+What is shell navigation?
+
+https://github.com/Hingandu/project-4-Shell-git/blob/a19e11eb18a4f8e62f7dee1c15a933ab6c686a0f/terminal.png
